@@ -1,0 +1,52 @@
+
+#main_nav li{
+display: inline-block;
+color:gray;
+ list-style-type: none;
+
+margin: 20px;
+}
+#main_nav li a{/*creates the buttons*/
+	Padding:0px 4px 0px 4px;
+	border:2px solid #af9e3a;
+	margin-left:10px;
+}
+#main_nav a{
+	color:#33b8e0;
+}
+
+#main_nav a:link{
+	font-size:50px;
+	text-decoration:none;
+	background-color:#f8f8f8;
+}
+
+#main_nav a:hover{
+	font-size:50px;
+	background-color:#12345a;
+}
+
+
+#wrapper h2{
+color:#33b8e0;
+
+}
+#wrapper ul {
+list-style-type: none;
+
+}
+#wrapper h1{
+color: #af9e3a;
+
+}
+#wrapper {
+text-align:center;
+
+}
+#picture1{
+padding-left: 15px;
+}
+#picture2{
+padding-left: 15px;
+}
+
